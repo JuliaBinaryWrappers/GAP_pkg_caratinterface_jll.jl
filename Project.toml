@@ -1,6 +1,6 @@
 name = "GAP_pkg_caratinterface_jll"
 uuid = "b60ae38f-62e8-5a18-8dcb-33083e9f01ee"
-version = "200.300.700+0"
+version = "200.300.701+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
